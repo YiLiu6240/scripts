@@ -1,1 +1,1 @@
-# gadget-collection
+# self-use scripts
